@@ -1,2 +1,4 @@
 learn git
 in local repository
+
+commit kedua
